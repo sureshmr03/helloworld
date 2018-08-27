@@ -1,10 +1,11 @@
+import java.io.*;
 class helloworld
 {
-	public static void main()
+	public static void main(String args[])
 	{
-		system.out.println("Welcome to hello world prohram");
-		system.out.println("How do you fell");
-		system.out.println("welcome");
-		system.out.println("4th line added");
+		System.out.println("Welcome to hello world prohram");
+		System.out.println("How do you fell");
+		System.out.println("welcome");
+		System.out.println("4th line added");
 	}
 }
